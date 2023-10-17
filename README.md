@@ -10,3 +10,8 @@ New devices can be seamlessly integrated into the system without modifying exist
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+
+![UML Diagram](https://github.com/brixcyver/commandPattern/assets/142380216/a50114c4-f0a2-4946-bfda-1702e5d31fac)
+
+I hope this documentation will help you advance and learn something new about Command Patterns using Java.
